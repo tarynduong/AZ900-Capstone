@@ -45,4 +45,5 @@ Set up a P2S VPN Gateway connection in the same virtual network of the VM:
 *`Note`*: If you fail to login to the VM because of auto append email address capability of Windows Security while you want to use the same address pool as given in the example from Microsoft, check solution [here](https://answers.microsoft.com/en-us/windows/forum/all/failed-login-windows-security-appends-email/18894193-86c1-45a4-aec4-18f6b007fa10)
 
 **2. Access Azure Storage Account by 3 ways**
-I write PowerShell script to access to the blob.
+
+I write PowerShell script to access to the blob. Check files .ps1
